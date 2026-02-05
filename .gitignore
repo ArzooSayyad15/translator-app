@@ -1,0 +1,8 @@
+# Dependencies
+node_modules
+
+# Environment variables (API keys)
+.env
+
+# Build output
+dist
